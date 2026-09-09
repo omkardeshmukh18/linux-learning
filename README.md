@@ -3,7 +3,7 @@ MCA 1st Year | Future DevOps Engineer
 
 ## Day 1 - Sep 9, 2026
 - Installed VirtualBox + Ubuntu 22.04
-- Learned 16 basic Linux commands
+- Learned 14 basic Linux commands
 - Created first GitHub repo
 
 ## Commands Learned Today
