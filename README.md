@@ -7,6 +7,6 @@ MCA 1st Year | Future DevOps Engineer
 - Created first GitHub repo
 
 ## Commands Learned Today
-- pwd, ls, cd, mkdir, touch, rm, cp, mv, cat,echo,whoami,man,history,clear
+- pwd, ls, cd, mkdir, touch, rm, cp, mv, cat,echo,whoami,man,history,clear.
 
 Goal: Become DevOps Engineer in 2 years.
